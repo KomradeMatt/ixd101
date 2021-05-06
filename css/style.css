@@ -163,12 +163,17 @@ nav img {
   display:inline-block;
   vertical-align:top;
 }
+nav p {
+  padding: 1px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+}
   
 
 nav ul li {
-  
-margin-bottom: -50px;
-display: inline;
+  display: inline;
   margin: 10px;
   background: none;}
 
