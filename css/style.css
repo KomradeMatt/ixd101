@@ -166,7 +166,9 @@ nav img {
   
 
 nav ul li {
-  display: inline;
+  
+margin-left: -50px;
+display: inline;
   margin: 10px;
   background: none;}
 
