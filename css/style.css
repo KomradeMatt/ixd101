@@ -139,13 +139,6 @@ a:hover {
 }
 
 /*------------------- NAVIGATION ------------------*/
-.nav ul {
-  padding: 0px;
-  margin: 0px;
-  text-align: center;
-  display:inline-block;
-  vertical-align:top;
-}
 
 nav {
   top: 0;
@@ -160,7 +153,16 @@ nav ul {
   padding-right: 15vw;
   text-align: right;
   text-transform: uppercase;
-  letter-spacing: 1px;}
+  letter-spacing: 1px;
+}
+
+nav img {
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  display:inline-block;
+  vertical-align:top;
+}
   
 
 nav ul li {
